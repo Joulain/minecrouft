@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-08-07 20:59:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-08-02 00:58:43 +0200"
@@ -1342,11 +1348,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2020-08-02 15:44:43 +0200",
+      "minecraft:jungle_edge": "2020-08-07 20:52:04 +0200",
       "minecraft:snowy_mountains": "2020-08-02 18:25:19 +0200",
       "minecraft:forest": "2020-08-02 13:30:29 +0200",
       "minecraft:mountains": "2020-08-02 12:49:14 +0200",
       "minecraft:taiga": "2020-08-02 23:42:14 +0200",
       "minecraft:desert_hills": "2020-08-02 00:31:25 +0200",
+      "minecraft:giant_tree_taiga": "2020-08-07 20:37:17 +0200",
       "minecraft:deep_cold_ocean": "2020-08-02 18:22:01 +0200",
       "minecraft:snowy_tundra": "2020-08-02 18:23:13 +0200",
       "minecraft:taiga_hills": "2020-08-05 23:56:18 +0200",
@@ -1354,14 +1362,18 @@
       "minecraft:frozen_river": "2020-08-02 18:23:57 +0200",
       "minecraft:deep_frozen_ocean": "2020-08-02 18:20:58 +0200",
       "minecraft:snowy_beach": "2020-08-02 18:22:43 +0200",
+      "minecraft:warm_ocean": "2020-08-07 20:15:44 +0200",
+      "minecraft:deep_lukewarm_ocean": "2020-08-07 20:15:11 +0200",
       "minecraft:savanna_plateau": "2020-08-02 13:55:37 +0200",
       "minecraft:beach": "2020-08-02 00:33:58 +0200",
       "minecraft:dark_forest": "2020-08-02 00:36:28 +0200",
       "minecraft:river": "2020-08-02 00:29:36 +0200",
+      "minecraft:lukewarm_ocean": "2020-08-07 20:17:24 +0200",
       "minecraft:snowy_taiga": "2020-08-02 18:36:46 +0200",
       "minecraft:wooded_mountains": "2020-08-02 12:50:22 +0200",
       "minecraft:wooded_hills": "2020-08-02 14:14:39 +0200",
       "minecraft:stone_shore": "2020-08-02 18:41:27 +0200",
+      "minecraft:giant_tree_taiga_hills": "2020-08-07 20:36:48 +0200",
       "minecraft:swamp": "2020-08-02 18:55:39 +0200",
       "minecraft:snowy_taiga_hills": "2020-08-02 18:36:21 +0200",
       "minecraft:savanna": "2020-08-02 00:31:21 +0200",
@@ -1540,6 +1552,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-08-02 00:43:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2020-08-07 20:19:27 +0200"
     },
     "done": true
   },
@@ -2638,6 +2656,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-08-02 13:58:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2020-08-07 20:19:27 +0200"
     },
     "done": true
   },
