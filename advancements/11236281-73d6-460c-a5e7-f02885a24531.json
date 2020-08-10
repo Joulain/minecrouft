@@ -611,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2020-08-10 23:09:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-08-02 00:41:33 +0200"
@@ -659,10 +665,12 @@
       "minecraft:blaze": "2020-08-03 19:12:00 +0200",
       "minecraft:skeleton": "2020-08-02 00:41:33 +0200",
       "minecraft:ghast": "2020-08-03 02:04:15 +0200",
+      "minecraft:vindicator": "2020-08-10 22:30:30 +0200",
       "minecraft:magma_cube": "2020-08-03 01:56:26 +0200",
       "minecraft:spider": "2020-08-02 01:11:07 +0200",
       "minecraft:creeper": "2020-08-02 13:40:32 +0200",
       "minecraft:slime": "2020-08-02 22:18:38 +0200",
+      "minecraft:evoker": "2020-08-10 23:14:20 +0200",
       "minecraft:witch": "2020-08-02 23:50:00 +0200",
       "minecraft:wither_skeleton": "2020-08-03 19:11:34 +0200",
       "minecraft:husk": "2020-08-02 00:50:56 +0200",
@@ -985,6 +993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2020-08-10 23:09:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-08-03 01:48:15 +0200"
@@ -1174,6 +1188,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-08-03 01:48:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-08-10 23:09:21 +0200"
     },
     "done": true
   },
@@ -1763,6 +1783,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-08-10 23:09:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-08-02 00:35:32 +0200"
@@ -2015,6 +2041,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-08-02 13:58:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2020-08-10 23:09:21 +0200"
     },
     "done": true
   },
@@ -2474,6 +2506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2020-08-10 23:09:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_slime_ball": "2020-08-02 22:18:46 +0200"
@@ -2555,6 +2593,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-08-06 21:25:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2020-08-10 23:09:21 +0200"
     },
     "done": true
   },
@@ -3086,6 +3130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2020-08-10 23:09:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-08-02 00:43:47 +0200"
@@ -3149,6 +3199,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-08-03 01:48:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-08-10 23:09:21 +0200"
     },
     "done": true
   },
