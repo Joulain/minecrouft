@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2020-08-11 16:42:25 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2020-08-02 10:47:51 +0200"
@@ -665,6 +671,7 @@
       "minecraft:blaze": "2020-08-03 19:12:00 +0200",
       "minecraft:skeleton": "2020-08-02 00:41:33 +0200",
       "minecraft:ghast": "2020-08-03 02:04:15 +0200",
+      "minecraft:hoglin": "2020-08-11 16:40:19 +0200",
       "minecraft:vindicator": "2020-08-10 22:30:30 +0200",
       "minecraft:magma_cube": "2020-08-03 01:56:26 +0200",
       "minecraft:spider": "2020-08-02 01:11:07 +0200",
@@ -1391,6 +1398,7 @@
       "minecraft:river": "2020-08-02 00:29:36 +0200",
       "minecraft:lukewarm_ocean": "2020-08-07 20:17:24 +0200",
       "minecraft:snowy_taiga": "2020-08-02 18:36:46 +0200",
+      "minecraft:birch_forest_hills": "2020-08-11 16:11:43 +0200",
       "minecraft:wooded_mountains": "2020-08-02 12:50:22 +0200",
       "minecraft:wooded_hills": "2020-08-02 14:14:39 +0200",
       "minecraft:stone_shore": "2020-08-02 18:41:27 +0200",
@@ -1584,12 +1592,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2020-08-11 16:39:12 +0200",
       "minecraft:nether_wastes": "2020-08-03 02:02:13 +0200",
       "minecraft:soul_sand_valley": "2020-08-03 02:05:07 +0200",
       "minecraft:warped_forest": "2020-08-03 01:42:58 +0200",
       "minecraft:basalt_deltas": "2020-08-03 01:48:14 +0200"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -2857,6 +2866,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-08-02 00:40:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2020-08-11 16:42:25 +0200"
     },
     "done": true
   },
